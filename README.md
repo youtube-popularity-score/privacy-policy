@@ -1,3 +1,7 @@
+# 👁️ Youtube Popularity Score
+
+![Youtube Popularity Score](https://raw.githubusercontent.com/youtube-popularity-score/.github/main/profile/logo.png)
+
 # Privacy Policy
 
 **Last Updated:** 30.08.2024
@@ -32,4 +36,4 @@ Our Privacy Policy may be updated from time to time. We will notify you of any c
 
 ## 8. Contact
 
-If you have any questions or concerns about our Privacy Policy, please contact us at yasinburakkalkan@gmail.com.
+If you have any questions or concerns about our Privacy Policy, please contact us at yasinburakkalkan@gmail.com
